@@ -8,6 +8,10 @@
 
 ![color](https://user-images.githubusercontent.com/96319944/233093988-f7a80bd2-4733-499c-9d84-751d4e0edda0.jpeg)
 
+## Prerequisites
+
+In order to use this Dracula theme for NewTerm you must have a Jailbroken device with [NewTerm](https://chariz.com/get/newterm) installed.
+
 ## Install
 
 
