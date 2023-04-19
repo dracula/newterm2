@@ -24,7 +24,9 @@ copy the Themes.plist over the existing one /Applications/NewTerm.app/
 
 ## Step 2
 
-copy the root.plist over the existing one //Applications/NewTerm.app/PreferenceBundles/NewTermPreferences.bundle/
+copy the root.plist over the existing one 
+
+/Applications/NewTerm.app/PreferenceBundles/NewTermPreferences.bundle/
 
 ## Step 3
 
