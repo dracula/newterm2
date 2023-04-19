@@ -2,6 +2,8 @@
 
 >Dracula theme for [NewTerm](https://chariz.com/get/newterm).
 
+[NewTerm](https://chariz.com/get/newterm) is a continuation of the Mobile Terminal project, a versatile terminal emulator for iOS.
+
 ![neo](https://user-images.githubusercontent.com/96319944/233093963-fb48f849-b715-444a-944f-f2f11abe4376.jpeg)
 
 ![color](https://user-images.githubusercontent.com/96319944/233093988-f7a80bd2-4733-499c-9d84-751d4e0edda0.jpeg)
