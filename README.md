@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [NewTerm](https://chariz.com/get/newterm)
 
-> A dark theme for [Foobar](https://foobar.com).
+>Dracula theme for [NewTerm](https://chariz.com/get/newterm).
 
 ![Screenshot](./screenshot.png)
 
