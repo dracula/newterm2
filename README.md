@@ -20,7 +20,9 @@ Simply download the supplied plists & replace the ones within the NewTerm2 app.
 
 ## Step 1
 
-copy the Themes.plist over the existing one /Applications/NewTerm.app/
+copy the Themes.plist over the existing one 
+
+/Applications/NewTerm.app/
 
 ## Step 2
 
