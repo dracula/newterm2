@@ -18,6 +18,24 @@ Simply download the supplied plists & replace the ones within the NewTerm2 app.
 
 [NewTerm.zip](https://github.com/urrickhunt/Dracula-for-NewTerm2/files/11275948/NewTerm.zip)
 
+## Step 1
+
+copy the Themes.plist over the existing one /Applications/NewTerm.app/
+
+## Step 2
+
+copy the root.plist over the existing one //Applications/NewTerm.app/PreferenceBundles/NewTermPreferences.bundle/
+
+## Step 3
+
+Activate the Dracula theme in NewTerm.
+
+Choose Dracula for Color Scheme.
+
+![scheme](https://user-images.githubusercontent.com/96319944/233152553-1999677d-825f-4014-9624-869fa36dbac9.jpeg)
+
+
+Enjoy 🧛🏻‍♂️ 
 
 ## Team
 
