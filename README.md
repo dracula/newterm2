@@ -1,8 +1,8 @@
-# Dracula for [NewTerm](https://chariz.com/get/newterm)
+# Dracula for [NewTerm2](https://chariz.com/get/newterm)
 
->Dracula theme for [NewTerm](https://chariz.com/get/newterm).
+>Dracula theme for [NewTerm2](https://chariz.com/get/newterm).
 
-[NewTerm](https://chariz.com/get/newterm) is a continuation of the Mobile Terminal project, a versatile terminal emulator for iOS.
+[NewTerm2](https://chariz.com/get/newterm) is a continuation of the Mobile Terminal project, a versatile terminal emulator for iOS.
 
 ![neo](https://user-images.githubusercontent.com/96319944/233093963-fb48f849-b715-444a-944f-f2f11abe4376.jpeg)
 
@@ -10,7 +10,7 @@
 
 ## Prerequisites
 
-In order to use this Dracula theme you must have a Jailbroken device with [NewTerm](https://chariz.com/get/newterm) installed.
+In order to use this Dracula theme you must have a Jailbroken device with [NewTerm2](https://chariz.com/get/newterm) installed.
 
 ## Install
 
