@@ -10,7 +10,7 @@
 
 ## Prerequisites
 
-In order to use this Dracula theme for NewTerm you must have a Jailbroken device with [NewTerm](https://chariz.com/get/newterm) installed.
+In order to use this Dracula theme you must have a Jailbroken device with [NewTerm](https://chariz.com/get/newterm) installed.
 
 ## Install
 
