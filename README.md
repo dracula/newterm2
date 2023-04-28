@@ -16,7 +16,7 @@ In order to use this Dracula theme you must have a Jailbroken device with [NewTe
 
 Simply download the supplied plists & replace the ones within the NewTerm2 app.
 
-[NewTerm.zip](https://github.com/urrickhunt/Dracula-for-NewTerm2/files/11275948/NewTerm.zip)
+[NewTerm.zip](https://github.com/dracula/newterm2/files/11355279/NewTerm.zip)
 
 ## Step 1
 
