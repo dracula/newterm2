@@ -1,50 +1,20 @@
 # Dracula for [NewTerm2](https://chariz.com/get/newterm)
 
->Dracula theme for [NewTerm2](https://chariz.com/get/newterm).
+> A dark theme for [NewTerm2](https://chariz.com/get/newterm).
 
-[NewTerm2](https://chariz.com/get/newterm) is a continuation of the Mobile Terminal project, a versatile terminal emulator for iOS.
-
-![new](https://user-images.githubusercontent.com/96319944/235204226-7317322d-7dba-48bf-8cdd-9462b76c7501.jpeg)
-
-## Prerequisites
-
-In order to use this Dracula theme you must have a Jailbroken device with [NewTerm2](https://chariz.com/get/newterm) installed.
+![Screenshot](./screenshot.png)
 
 ## Install
 
-Simply download the supplied plists & replace the ones within the NewTerm2 app.
-
-[NewTerm.zip](https://github.com/dracula/newterm2/files/11355279/NewTerm.zip)
-
-## Step 1
-
-copy the Themes.plist over the existing one 
-
-/Applications/NewTerm.app/
-
-## Step 2
-
-copy the root.plist over the existing one 
-
-/Applications/NewTerm.app/PreferenceBundles/NewTermPreferences.bundle/
-
-## Step 3
-
-Activate the Dracula theme in NewTerm.
-
-Choose Dracula for Color Scheme.
-
-![scheme](https://user-images.githubusercontent.com/96319944/233152962-a6cbe453-1e08-4e74-9683-3d8119e5962c.jpeg)
-
-Enjoy 🧛🏻‍♂️ on [NewTerm2](https://chariz.com/get/newterm)
+All instructions can be found at [draculatheme.com/newterm2](https://draculatheme.com/newterm2).
 
 ## Team
 
-This theme is maintained by the following person(s).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt)|
-| ----------------------------------------------------------------------------------------- |
-| [urrickhunt](https://github.com/urrickhunt)                                               |
+| [![urrickhunt](https://github.com/urrickhunt.png?size=100)](https://github.com/urrickhunt) |
+| ------------------------------------------------------------------------------------------ |
+| [urrickhunt](https://github.com/urrickhunt)                                                |
 
 ## Community
 
